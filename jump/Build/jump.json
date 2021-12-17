@@ -1,0 +1,16 @@
+{
+"companyName": "armageddon games",
+"productName": "jumper",
+"productVersion": "0.1",
+"dataUrl": "jump.data.unityweb",
+"wasmCodeUrl": "jump.wasm.code.unityweb",
+"wasmFrameworkUrl": "jump.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.34f1"
+}
